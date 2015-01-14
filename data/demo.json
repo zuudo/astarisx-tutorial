@@ -1,0 +1,27 @@
+[{
+    "id": "1",
+    "firstName": "Frank",
+    "lastName": "Smith",
+    "gender": "male",
+    "dob": "1980-03-03",
+    "job": "Dentist",
+    "hobbies": [{"id": "1", "hobby": "reading"},
+        {"id": "2", "hobby": "golfing"},
+        {"id": "3", "hobby": "cutting code"}]
+},{
+    "id":"2",
+    "firstName": "Lisa",
+    "lastName": "Jones",
+    "gender": "female",
+    "dob": "1985-02-22",
+    "job": "Accountant",
+    "hobbies": [{"id": "1", "hobby": "reading"}]
+},{
+    "id": "3",
+    "firstName": "John",
+    "lastName": "Citizen",
+    "gender": "male",
+    "dob": "1975-12-11",
+    "job": "Unemployed",
+    "hobbies": [{"id": "1", "hobby": "watching YouTube"}]
+}]
